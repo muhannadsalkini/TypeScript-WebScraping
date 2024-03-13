@@ -1,0 +1,20 @@
+{
+  "name": "new-folder-(4)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^20.11.27",
+    "@types/puppeteer": "^7.0.4",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^22.4.1"
+  }
+}
