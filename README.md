@@ -7,13 +7,13 @@ This project demonstrates web scraping techniques using TypeScript, focusing on 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/web-scraping-project.git
+   git clone https://github.com/muhannadsalkini/TypeScript-WebScraping.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd web-scraping-project
+   cd TypeScript-WebScraping
    ```
 
 3. Install dependencies using npm:
